@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rhettlong
-- 👀 I’m interested in Machine Learning and Quantitative Finance
+- Hi, I’m @rhettlong
+- I’m interested in Machine Learning and Quantitative Finance
 
 <!-- -
 rhettlong/rhettlong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
